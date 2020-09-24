@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=Client\Client.vbp
+StartupProject=Server\Server.vbp
+Project=WebClient\WebClient.vbp
